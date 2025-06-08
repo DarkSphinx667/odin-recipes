@@ -1,7 +1,9 @@
 # odin-recipes
-Odin Foundations: Recipe Word
+Odin Foundations: Recipe
 
 Current objective is to complete a basic website of recipe navigation links.
+    
+    
     Skills used on this website:
 
 
